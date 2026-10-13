@@ -1,0 +1,21 @@
+{
+  "name": "ETGames Locadora Digital 3D",
+  "short_name": "ETGames 3D",
+  "start_url": "./ETGames_Locadora_Digital_3D.html",
+  "display": "standalone",
+  "background_color": "#06090f",
+  "theme_color": "#e5a93c",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
